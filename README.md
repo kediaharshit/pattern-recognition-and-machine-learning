@@ -3,3 +3,7 @@
 - Assignment 2: Unsupervided Classification - K-Means Clustering and Gaussian Mixture Models (GMMs).
 - Assignment 3: Sequence Modelling using Hidden Markov Models (HMMs) - Handwritten data and Spoken digit data.
 - Project: Speaker Diarization using K-Means, GMMs and Agglomerative Bottom-up Hierarchical Clustering.
+
+- Team Details:
+	Harshit Kedia (CS17B103)
+	Dev Sheth (CS17B106)
